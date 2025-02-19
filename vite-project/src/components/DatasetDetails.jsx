@@ -2,7 +2,7 @@
 // import { useParams } from "react-router-dom";
 // import axios from "axios";
 
-// const API_URL = "http://localhost:5000"; // Backend URL
+// const API_URL = "https://recler-backend-2.onrender.com"; // Backend URL
 
 // const DatasetDetails = () => {
 //   const { id } = useParams();
