@@ -212,7 +212,7 @@ import axios from "axios";
 import { datasets } from "../data/datasets"; // ✅ Import datasets array
 import "./DatasetFiles.css"; // ✅ Import CSS
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://recler-backend-2.onrender.com";
 
 const DatasetFiles = () => {
   const { id } = useParams();
